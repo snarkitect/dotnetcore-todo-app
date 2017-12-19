@@ -1,0 +1,10 @@
+/Users/BradRigby/Sites/dotnetcore/ToDoApi/bin/Debug/netcoreapp2.0/ToDoApi.deps.json
+/Users/BradRigby/Sites/dotnetcore/ToDoApi/bin/Debug/netcoreapp2.0/ToDoApi.runtimeconfig.json
+/Users/BradRigby/Sites/dotnetcore/ToDoApi/bin/Debug/netcoreapp2.0/ToDoApi.runtimeconfig.dev.json
+/Users/BradRigby/Sites/dotnetcore/ToDoApi/bin/Debug/netcoreapp2.0/ToDoApi.dll
+/Users/BradRigby/Sites/dotnetcore/ToDoApi/bin/Debug/netcoreapp2.0/ToDoApi.pdb
+/Users/BradRigby/Sites/dotnetcore/ToDoApi/obj/Debug/netcoreapp2.0/ToDoApi.csproj.CoreCompileInputs.cache
+/Users/BradRigby/Sites/dotnetcore/ToDoApi/obj/Debug/netcoreapp2.0/ToDoApi.AssemblyInfoInputs.cache
+/Users/BradRigby/Sites/dotnetcore/ToDoApi/obj/Debug/netcoreapp2.0/ToDoApi.AssemblyInfo.cs
+/Users/BradRigby/Sites/dotnetcore/ToDoApi/obj/Debug/netcoreapp2.0/ToDoApi.dll
+/Users/BradRigby/Sites/dotnetcore/ToDoApi/obj/Debug/netcoreapp2.0/ToDoApi.pdb
